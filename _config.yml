@@ -1,3 +1,6 @@
-title: Kanishka Parankusham
-description: AI, Systems Architecture, and High-Performance Computing Portfolio
+title: Kanishka Parankusham | AI & Systems Engineer
+description: Portfolio of Kanishka Parankusham. Specializing in High-Performance Computing, Artificial Intelligence, and Systems Architecture.
+author: Kanishka Parankusham
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-seo-tag
